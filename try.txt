@@ -1,0 +1,16 @@
+ges not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   worksheet7.ipynb
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS D:\Documents\C&T of ai\Concept_-_Technologies_of_Ai> git add .
+warning: in the working copy of 'worksheet7.ipynb', LF will be replaced by CRLF the next time Git touches it
+PS D:\Documents\C&T of ai\Concept_-_Technologies_of_Ai> git commit --date="2026-02-10 10:15:00"
+hint: Waiting for your editor to close the file... "D:\Documents\softwares\Microsoft VS Code\bin\code" --wait: line 1: D:\Documents\softwares\Microsoft VS Code\bin\code: No such file or directory
+error: there was a problem with the editor '"D:\Documents\softwares\Microsoft VS Code\bin\code" --wait'
+Please supply the message using either -m or -F option.
+PS D:\Documents\C&T of ai\Concept_-_Technologies_of_Ai> git push
+Enter passphrase for key '/c/Users/Lenovo/.ssh/id_ed25519': 
+Everything up-to-date
+PS D:\Documents\C&T of ai\Concept_-_Technologies_of_Ai> 
